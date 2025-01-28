@@ -1,1 +1,2 @@
 # Study-timer
+The Pomodoro Timer is a time management technique that uses a timer to break down work into intervals, typically 25 minutes of focused work followed by a 5-minute break. This method helps improve productivity, reduce distractions, and combat mental fatigue by encouraging short, intense bursts of work interspersed with short breaks. It's a popular technique among students and professionals alike for enhancing their workflow and achieving greater focus.
